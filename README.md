@@ -1,1 +1,1 @@
-# probable-study
+# Repository for studying algorithms
